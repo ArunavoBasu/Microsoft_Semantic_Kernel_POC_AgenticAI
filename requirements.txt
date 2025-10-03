@@ -1,0 +1,2 @@
+streamlit
+semantic_kernel
